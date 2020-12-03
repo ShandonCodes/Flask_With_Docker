@@ -14,7 +14,7 @@ $ ./run.sh
 
 After running the script, the server will start on port 5000 and will be accessible via localhost or the computer's local IP.
 
->> NOTE: API route definitions are viewable in the `Server.py` file.
+> NOTE: API route definitions are viewable in the `Server.py` file.
 ## Licensing
 
 - Source code Copyright &copy; 2020 ShandonCodes.
